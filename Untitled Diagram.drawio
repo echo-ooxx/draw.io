@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T00:57:04.544Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8lw4KXGjE1IFxwOZtGf1" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-27T01:04:14.878Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="P8Qo9u0vxbyZ2ATsS9tA" version="20.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="5448" dy="3552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1297" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <object label="" fugo-shopping-mall="" id="WIyWlLk6GJQsqaUBKTNV-0">
           <mxCell />
@@ -302,12 +302,6 @@
         </mxCell>
         <mxCell id="dCJPNzx6jzzV9S0Gvq4X-110" value="填写相关信息及付款" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1065" y="1320" width="210" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="dCJPNzx6jzzV9S0Gvq4X-111" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="920" as="sourcePoint" />
-            <mxPoint x="930" y="870" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="dCJPNzx6jzzV9S0Gvq4X-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dCJPNzx6jzzV9S0Gvq4X-109" target="dCJPNzx6jzzV9S0Gvq4X-110">
           <mxGeometry y="10" relative="1" as="geometry">
